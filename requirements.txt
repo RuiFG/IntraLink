@@ -1,3 +1,2 @@
-# kiwitcms==11.7+patched
-piccolo==0.120.0+patched
+piccolo==0.120.0
 pysaml2==7.5.0
