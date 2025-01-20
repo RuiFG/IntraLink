@@ -1,3 +1,3 @@
-kiwitcms==10.4+patched
-piccolo==0.16.5+patched
-pysaml2==1.0.3+patched
+kiwitcms==11.7+patched
+piccolo==0.120.0+patched
+pysaml2==7.5.0
