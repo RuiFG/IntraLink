@@ -14,7 +14,6 @@ hpack==4.0.0
 hypercorn==0.11.2
 hyperframe==6.0.1
 inflection==0.5.1
-jinja2==3.0.1
 markupsafe==2.0.1
 mypy-extensions==0.4.3
 pathspec==0.8.1
